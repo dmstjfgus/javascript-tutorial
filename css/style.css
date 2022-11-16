@@ -29,3 +29,21 @@
 .img-box img {
   width: 100%;
 }
+
+.count .num {
+  font-size: 30px;
+}
+
+body {
+  height: 4000px;
+}
+
+.toTop {
+  position: fixed;
+  font-size: 3rem;
+  cursor: pointer;
+  color: #829460;
+  right: 50px;
+  bottom: 70px;
+  display: none;
+}
